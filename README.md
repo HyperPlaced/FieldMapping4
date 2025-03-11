@@ -8,8 +8,6 @@
 
 ## Download GeoPDFs
 - [Download Real Landcover(GeoPDF)](pdfs/RealLandcover.pdf)
-
-
-[Download Layout Tree_Canopy_Model(GeoPDF)](pdfs/Layout_Tree_Canopy_Model.pdf)
+- [Download Layout Tree_Canopy_Model3(GeoPDF)](pdfs/Layout_Tree_Canopy_Model3.pdf)
 
 
